@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+}
+.head{
+    width: 100%;
+    border-bottom: 2px solid #630909 ;
+    padding: 6px;
+    background-color: rgb(134, 2, 2);
+}
+.right{
+    float: right;
+}
+.r{
+    background-color: rgb(238, 98, 168);
+    padding: 10px
+}
+.m{
+    background-color: rgb(255, 91, 99);
+    padding: 10px
+}
+.h{
+     width: 100%;
+    border-bottom: 2px solid #630909 ;
+    padding: 6px;
+    background-color: rgb(134, 2, 2);
+}
